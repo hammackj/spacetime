@@ -4,11 +4,11 @@ permalink:      /:year-:month-:day/:title
 #pagination
 paginate_multiple:
   - paginate: 5
-    paginate_path: '/page:num/'
-    sub_dir: '/home'
+    paginate_path: '/blog/page:num/'
+    sub_dir: '/blog'
   - paginate: 5
-    paginate_path: '/poetry/page:num/'
-    sub_dir: '/poetry'  
+    paginate_path: '/writings/page:num/'
+    sub_dir: '/writings'  
 
 
 # Setup
