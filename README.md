@@ -20,6 +20,8 @@ Spacetime uses Jekyll's built-SCSS compiler to generate CSS. You'll need to inst
 
 ```bash
 $ gem install jekyll
+$ gem install jekyll-paginate-multiple
+
 ```
 
 ### 3. Create your site
