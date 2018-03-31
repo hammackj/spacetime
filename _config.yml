@@ -1,0 +1,41 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+#pagination
+paginate_multiple:
+  - paginate: 5
+    paginate_path: '/page:num/'
+    sub_dir: '/home'
+  - paginate: 5
+    paginate_path: '/poetry/page:num/'
+    sub_dir: '/poetry'  
+
+
+# Setup
+title:          Ankit Solanki
+baseurl:        "/tale"
+url:            "https://techcentaur.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Ankit Solanki
+  #url:          http://chester.how
+  email:        ankit03june@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/techcentaur/tale
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-paginate-multiple
