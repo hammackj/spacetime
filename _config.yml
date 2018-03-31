@@ -18,7 +18,7 @@ paginate_multiple:
 # Setup
 title:          Ankit Solanki
 baseurl:        "/space"
-url:            "https://techcentaur.github.io"
+url:            "https://techcentaur.github.io/space"
 
 # Assets
 sass:
@@ -36,7 +36,7 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/techcentaur/Spacetime
+  repo:         https://github.com/techcentaur/space
 
 # Gems
 gems:
