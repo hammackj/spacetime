@@ -3,6 +3,10 @@ layout: default
 title: Writings
 ---
 
+<div>
+  <h2>Writings</h2>
+  <h4>Sharing my own collections of words.</h4>
+</div>
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">

@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Blog
+title: Quotes
 ---
+
+
 <div>
-  <h2>Blog</h2>
-  <h4>A place to discuss ideas about different academic fields.</h4>
+  <h2>Quotes</h2>
+  <h4>A set of wise and delicate words.</h4>
 </div>
 <div class="catalogue">
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <h3 class="catalogue-title" style="font-size:1.5rem !important;">{{ post.title }}</h3>
         <div class="catalogue-line"></div>
         <p>
           {{ post.content | truncatewords: 40 | strip_html }}

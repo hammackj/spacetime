@@ -8,7 +8,11 @@ paginate_multiple:
     sub_dir: '/blog'
   - paginate: 5
     paginate_path: '/writings/page:num/'
-    sub_dir: '/writings'  
+    sub_dir: '/writings'
+  - paginate: 10
+    paginate_path: '/quotes/page:num'
+    sub_dir: '/quotes'
+
 
 
 # Setup
