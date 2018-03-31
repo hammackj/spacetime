@@ -13,7 +13,7 @@ paginate_multiple:
 
 # Setup
 title:          Ankit Solanki
-baseurl:        "/tale"
+baseurl:        "/space"
 url:            "https://techcentaur.github.io"
 
 # Assets
@@ -27,13 +27,12 @@ markdown:       kramdown
 # About
 author:
   name:         Ankit Solanki
-  #url:          http://chester.how
   email:        ankit03june@gmail.com
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/techcentaur/tale
+  repo:         https://github.com/techcentaur/Spacetime
 
 # Gems
 gems:
