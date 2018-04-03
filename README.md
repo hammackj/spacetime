@@ -34,6 +34,11 @@ To test your site locally, run this in your site's root directory
 $ jekyll serve
 ```
 
+## Help
+### Using Multi-Pagination
+
+Edit the `_config.yml` file with changing the directories of the differnet blogs with there pagination counts and supporting urls. Also, make different folders in the _posts folder to put up your blog-posts. You also need to make their individual home pages since they will be shown on different index files.
+
 Head to http://localhost:4000/space/ or http://127.0.0.1:4000/space/ to see your site in action.
 
 ## Contributing
