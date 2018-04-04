@@ -1,8 +1,9 @@
 # Spacetime
 A gorgeous and simplistic Jekyll theme spacetime for multiple blogging categories in one space. Checkout the demo [here](https://techcentaur.github.io/space/).
 
-![spacetime screenshot]()
+![spacetime screenshot web](https://github.com/techcentaur/spacetime/blob/master/img/space1.jpg)
 
+![spacetime screenshot phone](https://github.com/techcentaur/spacetime/blob/master/img/space2.jpg)
 
 ## Features
 - Compatible with GitHub Pages
@@ -41,7 +42,25 @@ Head to http://localhost:4000/space/ or http://127.0.0.1:4000/space/ to see your
 ## Help
 ### Using Multi-Pagination
 
-Edit the `_config.yml` file with changing the directories of the differnet blogs with there pagination counts and supporting urls. Also, make different folders in the _posts folder to put up your blog-posts. You also need to make their individual home pages since they will be shown on different index files.
+Edit the `_config.yml` file with changing the directories of the differnet blogs with there pagination counts and supporting urls as
+
+```yaml
+
+paginate_multiple:
+  - paginate: 5
+    paginate_path: '/blog/page:num/'
+    sub_dir: '/blog'
+  - paginate: 5
+    paginate_path: '/writings/page:num/'
+    sub_dir: '/writings'
+  - paginate: 10
+    paginate_path: '/quotes/page:num'
+    sub_dir: '/quotes'
+
+
+```
+
+Also, make different folders in the _posts folder to put up your blog-posts. You also need to make their individual home pages since they will be shown on different index files.
 
 ## Contributing
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
