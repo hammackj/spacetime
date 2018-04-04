@@ -4,12 +4,12 @@ A gorgeous and simplistic Jekyll theme spacetime for multiple blogging categorie
 ![spacetime screenshot web](https://github.com/techcentaur/spacetime/blob/master/img/space1.jpg)
 
 ## Features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
+- Compatible with GitHub Pages.
+- Responsive design (looks just as good on mobile).
 - Multiple pagination of posts depending on categories and subjects.
-- More than one blog maintainence system
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
+- More than one blog maintainance system.
+- Syntax highlighting, with the help of Pygments.
+- Markdown and HTML text formatting.
 
 
 ## Usage
@@ -63,4 +63,5 @@ Also, make different folders in the _posts folder to put up your blog-posts. You
 ## Contributing
 Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
-
+### License
+Feel free to use this as the way you want. A thanks-note below your website will be appreciated but not necessary.
