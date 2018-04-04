@@ -3,7 +3,7 @@ A gorgeous and simplistic Jekyll theme spacetime for multiple blogging categorie
 
 ![spacetime screenshot web](https://github.com/techcentaur/spacetime/blob/master/img/space1.jpg)
 
-![spacetime screenshot phone](https://github.com/techcentaur/spacetime/blob/master/img/space2.jpg)
+![spacetime screenshot phone](https://github.com/techcentaur/spacetime/blob/master/img/space2.jpg 50x150)
 
 ## Features
 - Compatible with GitHub Pages
