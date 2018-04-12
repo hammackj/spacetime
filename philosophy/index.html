@@ -3,7 +3,6 @@ layout: default
 title: Philosophy
 ---
 
-
 <div>
   <h2>Philosophy</h2>
   <h4>Some fundamental perceptions about aesthetic and epistomological beliefs as an academic discipline.</h4>
@@ -13,7 +12,7 @@ title: Philosophy
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h3 class="catalogue-title" style="font-size:1.5rem !important;">{{ post.title }}</h3>
+        <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
         <p>
           {{ post.content | truncatewords: 40 | strip_html }}

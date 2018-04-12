@@ -9,7 +9,7 @@ paginate_multiple:
   - paginate: 5
     paginate_path: '/writings/page:num/'
     sub_dir: '/writings'
-  - paginate: 10
+  - paginate: 5
     paginate_path: '/philosophy/page:num'
     sub_dir: '/philosophy'
 
