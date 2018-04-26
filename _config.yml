@@ -6,13 +6,15 @@ paginate_multiple:
   - paginate: 5
     paginate_path: '/blog/page:num/'
     sub_dir: '/blog'
-  - paginate: 5
+  - paginate: 8
     paginate_path: '/writings/page:num/'
     sub_dir: '/writings'
-  - paginate: 5
+  - paginate: 6
     paginate_path: '/philosophy/page:num'
     sub_dir: '/philosophy'
-
+  - paginate: 6
+    paginate_path: '/academic/page:num'
+    sub_dir: '/academic'
 
 
 # Setup
