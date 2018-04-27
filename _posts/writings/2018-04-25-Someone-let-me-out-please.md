@@ -5,7 +5,7 @@ author: "Ankit Solanki"
 permalink: /someoneletmeoutplease/
 ---
 
-One of the many important concepts Albert Camus thought and spread the word about is, the free nature of a man. He says that a person, even though feel like bounded with over-responsibilities of social or mental cause, is actaully free in his own fundamental. Our social world exists as much as a crucial factor for living a methodical life with us, parallel to it, it also creates an invisible container for our mental thoughts. We start to think and do things on the basis as we are not totally free, which is in fact a 'bad faith'.
+One of the many concepts Albert Camus wrote about is the free nature of a man, he says that a person, even though feel like bounded with responsibilities of social or mental events, is actaully free in his own skin i.e. fundamental. Our social world exists with us, as much as a crucial factor for living a methodical life, parallel to it, it also creates an invisible container for our mental thoughts.
 
 > This poem is from the point of view of a pure soul living in a body. It is named as **'someone let me out please'**.
 
