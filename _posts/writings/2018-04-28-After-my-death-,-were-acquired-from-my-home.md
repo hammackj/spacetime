@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Acquired from my home, after my death"
+title: "After my death, were aquired from my home"
 author: "Ankit Solanki"
 permalink: /acquiredfrommyhome/
 ---
